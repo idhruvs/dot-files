@@ -1,5 +1,13 @@
 # dot-files
-Dotfiles repository
+Dotfiles repository [UPDATED]
+
+## Initialization
+ - Step 1: Add the vimrc contents in to your .vimrc file at location ~/.vimrc
+ - Step 2: Open vim
+ - Step 3: Execute command :PluginInstall
+ - Step 4: Restart Vim
+ 
+
 
 ## Vim - Reference
 
